@@ -33,11 +33,11 @@
         --light:              #CACBCF;
         --lighter:            #F3F3F3;
         --page-bg:            #FFFFFF; 
-        --color:              #D73AA5;   
+        --color:              #E22658;   
         --text-color:         #17181E;
         --headings-color:     #17181E;
         --link-color:         #17181E;
-        --link-color-hover:   #D73AA5;    
+        --link-color-hover:   #E22658;    
         --nav-link-color:     #17181E;
         --nav-link-color-hover: #17181E;  
         --logo-color:         #17181E;   
@@ -2239,11 +2239,11 @@ textarea {
 }
       
         input[type=checkbox]:checked + label:before{
-               background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 11 8'%3e%3cpolygon points='9.53 0 4.4 5.09 1.47 2.18 0 3.64 2.93 6.54 4.4 8 5.87 6.54 11 1.46 9.53 0' fill='%23D73AA5'/%3e%3c/svg%3e");
+               background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 11 8'%3e%3cpolygon points='9.53 0 4.4 5.09 1.47 2.18 0 3.64 2.93 6.54 4.4 8 5.87 6.54 11 1.46 9.53 0' fill='%23E22658'/%3e%3c/svg%3e");
         }
 
         input[type=radio]:checked + label:before {
-               background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3ccircle cx='4' cy='4' r='4' fill='%23D73AA5'/%3e%3c/svg%3e");
+               background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3ccircle cx='4' cy='4' r='4' fill='%23E22658'/%3e%3c/svg%3e");
         
 
         } 
