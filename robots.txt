@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://petermolnar.github.io/ballroomdancing.hu/sitemap.xml
+Sitemap: https://ballroomdancing.hu/sitemap.xml
